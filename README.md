@@ -49,9 +49,9 @@ flowchart LR
   - Dossier `Direction` réservé au groupe `GRP_Direction`.
   - Dossier `Comptabilite` réservé au groupe `GRP_Comptabilite`.
 
-| Configuration DHCP & Baux actifs | Partage Réseau SMB & Permissions NTFS |
-| :---: | :---: |
-| ![DHCP DNS](./docs/screenshots/04-dhcp-dns.png) | ![File Share](./docs/screenshots/05-file-share.png) |
+| Configuration DHCP & Baux actifs | Permissions du Partage SMB (Serveur) | Accès au Partage depuis le PC Client |
+| :---: | :---: | :---: |
+| ![DHCP DNS](./docs/screenshots/04-dhcp-dns.png) | ![File Share](./docs/screenshots/05-file-share.png) | ![Client Share](./docs/screenshots/06-client-share.png) |
 
 ---
 
@@ -65,7 +65,7 @@ flowchart LR
 
 | Console des Stratégies de Groupe (GPO) |
 | :---: |
-| ![GPO Security](./docs/screenshots/06-gpo-security.png) |
+| ![GPO Security](./docs/screenshots/07-gpo-security.png) |
 
 ---
 

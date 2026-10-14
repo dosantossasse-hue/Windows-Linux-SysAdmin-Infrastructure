@@ -9,11 +9,12 @@ Enregistre tes captures d'écran dans ce dossier (`docs/screenshots/`) au fur et
   3. `03-client-domain.png` : Le PC Windows 10/11 connecté au domaine `corp.local` avec la session d'un employé.
 
 * **Projet AD n°2 (Niveau Intermédiaire — DHCP & Partage de fichiers)** :
-  4. `04-dhcp-dns.png` : La console *DHCP* montrant l'adresse IP distribuée automatiquement au PC Windows 10/11.
-  5. `05-file-share.png` : Les permissions du dossier partagé `Partage-Compta` réservé au groupe `GRP_Comptabilite`.
+  4. `04-dhcp-dns.png` : La console DHCP montrant le bail IP attribué au PC Windows 10.
+  5. `05-file-share.png` : Les permissions du dossier partagé configurées sur le serveur.
+  6. `06-client-share.png` : Le dossier partagé `PartageInformatique` ouvert avec succès sur le PC client.
 
 * **Projet AD n°3 (Niveau Avancé — GPO & Sécurité)** :
-  6. `06-gpo-security.png` : La console *Gestion des stratégies de groupe (GPO)* montrant tes règles de sécurité.
+  7. `07-gpo-security.png` : La console Gestion des stratégies de groupe (GPO) montrant tes règles de sécurité.
 
 ---
 
